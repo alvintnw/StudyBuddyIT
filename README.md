@@ -53,11 +53,5 @@ API key gratis bisa dibuat di [Google AI Studio](https://aistudio.google.com/api
 2. Riwayat chat dipotong ke 12 pesan terakhir lalu dikirim ke Gemini (`stream_answer()`).
 3. Setelah jawaban selesai, `get_suggestions()` meminta model membuat 3 pertanyaan lanjutan.
 
-## Screenshots
-Tambahkan gambar ke folder `screenshots/` lalu tampilkan di sini:
-
-![Tampilan utama](screenshots/home.png)
-![Mode Debug Kode](screenshots/debug.png)
-
 ## Catatan
 Chatbot ini alat bantu belajar, bukan pengganti dosen atau sumber resmi. Selalu verifikasi jawaban penting.
