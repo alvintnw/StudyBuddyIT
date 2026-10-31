@@ -25,7 +25,7 @@ Mahasiswa Informatika sering butuh penjelasan konsep, latihan soal, bantuan debu
 
 ## Cara Menjalankan
 ```bash
-git clone <URL-REPO-KAMU>
+git clone <URL-REPO>
 cd <nama-folder>
 
 python -m venv .venv
