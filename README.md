@@ -1,4 +1,4 @@
-# 🎓 StudyBuddy IT
+# StudyBuddy IT
 
 Chatbot asisten belajar berbasis AI untuk mahasiswa Teknik Informatika.
 Dibuat sebagai Final Project **AI Productivity and AI API Integration for Developers** (Hacktiv8).
